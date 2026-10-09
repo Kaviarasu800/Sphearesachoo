@@ -1,0 +1,14 @@
+{
+  "name": "kavi-growth-agency-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KAVI GROWTH full-stack agency website with a dependency-free Node.js + SQLite backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
